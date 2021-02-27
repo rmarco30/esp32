@@ -1,5 +1,7 @@
 /*/build
 /*/sdkconfig
+/*/.gitignore
+/*/.vscode
 /*/README.md
 /*/Makefile
 /*/LICENSE
