@@ -4,6 +4,10 @@
 #include <driver/adc.h>
 #include "driver/ledc.h"
 
+
+// potentiometer pin 1 to gnd, pin 2 to ADC0, pin 3 to 3.3V
+// led anode to GPIO16 with 560 ohms resistor to ground
+
 void app_main(void)
 {
 
