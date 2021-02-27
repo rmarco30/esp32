@@ -4,3 +4,6 @@
 /*/Makefile
 /*/LICENSE
 /*/CMakeLists.txt
+/*/*/CMakeLists.txt
+/*/*/*.projbuild
+/*/*/*.mk
